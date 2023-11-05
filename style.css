@@ -1,0 +1,50 @@
+/* 
+    selector {
+        propiedad : valor;
+        propiedad : valor;
+    }
+
+*/
+
+body {
+    /* cambiar color de fondo */
+    background-color: silver;
+    /* color de texto */
+    color: darkmagenta;
+    /* Cambiar la fuente */
+    font-family: 'DM Serif Display', serif;
+}
+
+h1{
+    color: crimson;
+    font-family: 'Cabin Sketch', sans-serif;
+}
+
+h3{
+    color: deeppink;
+}
+
+a{
+    color: cadetblue;
+}
+
+img{
+    /* width: ancho del objeto // height: alto del objeto */
+    width: 200px;
+}
+
+.estrellas{
+    width: 180px;
+}
+
+.estrellado{
+    width: 500px;
+    /* border radius */
+    border-radius: 10%;
+    /* sobras */
+    box-shadow: 10px 0px 50px rgb(163, 10, 10);
+}
+
+.button_send{
+    
+}
